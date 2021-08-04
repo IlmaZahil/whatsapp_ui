@@ -1,4 +1,4 @@
-# whats_app_ui
+# Whats App
 
 A new Flutter project.
 
